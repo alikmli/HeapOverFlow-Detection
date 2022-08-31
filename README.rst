@@ -12,17 +12,4 @@ Features
 * Finding  Units that Suspecics to Heap Overflow Vulnerability
 * Discovering Heap OverFlow Vulnerability And Generating Proper Inputs
 
-Dependencies
-------------------------
 
-Get Started
-------------
-
-Finding Vulnerable Units
-====================================
-
-Discovering the Vulnerability
-====================================
-
-Known issues
-------------------------
